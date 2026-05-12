@@ -1,0 +1,7 @@
+{
+  "name": "vexevents",
+  "version": "0.0.1",
+  "description": "TypeScript wrapper for the VEX Events API",
+  "main": "index.js",
+  "license": "MIT"
+}
